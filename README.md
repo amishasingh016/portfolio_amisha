@@ -13,5 +13,3 @@ Welcome to my portfolio project! This project showcases my skills, experience, a
 5. [Experience](#experience)
 6. [Contact](#contact)
 
-#Live Link
-#https://amishasingh016.github.io/My-Portfolio/
